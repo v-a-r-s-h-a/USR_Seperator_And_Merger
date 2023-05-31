@@ -1,0 +1,10 @@
+ #अलवण जल के मुख्य स्रोत नदी, ताल, सोते एवं हिमनद हैं ।
+alavaNa_1,jala_1,muKya_1,srowa_1,naxI_1,wAla_1,sowA_1,himanaxa_1,hE_1
+1,2,3,4,5,6,7,8,9
+,mass,,,,,,,
+,[- pl a],,[- sg a],[- sg a],[- sg a],[- pl a],[- sg a],
+2:mod,4:r6,4:mod,9:k1,9:k1s,9:k1s,9:k1s,9:k1s,0:main
+,,,,,,,,
+,def,,,nondef,nondef,nondef,def,
+,,,,,,,,
+affirmative

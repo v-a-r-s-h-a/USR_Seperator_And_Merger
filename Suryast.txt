@@ -1,0 +1,531 @@
+#वे विशेष रूप से सुरक्षित हवा से भरी हुई अंतरिक्ष पोशाक पहनते हैं ।
+vaha,viSeRa_1,rUpa_1,surakRiwa_1,havA_1,Bara_1,aMwarikRa_1+poSAka_1,pahana_1-wA_hE_1
+1,2,3,4,5,6,7,8
+,,,,mass,,,
+,,[- sg a],,[- pl a],,[- sg a],
+8:k1,3:mod,6:krvn,5:mod,6:k3,8:rbks,8:k2,0:main
+Hin_Geo_ncert_7stnd_4ch_0119a.1:coref,,,,,,,
+,,,,def,,def,
+,,,,,,,
+affirmative
+ 
+ #वे इस अंतरिक्ष पोशाक को नहीं पहनते
+vaha,yaha,aMwarikRa_1+poSAka_1,nahIM_1,pahana_1-wA_hE_1
+1,2,3,4,5
+,,,,
+,,[- sg a],,
+5:k1,3:mod,5:k2,5:neg,0:main
+Hin_Geo_ncert_7stnd_4ch_0119a.1:coref,Hin_Geo_ncert_7stnd_4ch_0119b.6:coref,,,
+,,def,,
+,,,,
+negative
+ 
+ #अंतरिक्ष यात्रियों के शरीर द्वारा विपरीत बल लगने के कारण उनकी रक्त शिराएँ फट सकती हैं ।
+aMwarikRa_1+yAwrI_1,SarIra_1,viparIwa_1,bala_1,laga_1,vaha,rakwa_1+SirA_1,Pata_1-0_sakawA_hE_1
+1,2,3,4,5,6,7,8
+anim,,,,,,
+[m pl a],[- sg a],,[- sg a],,,[- pl a],
+2:r6,4:k3,4:mod,5:k2,8:rh,7:r6,8:k1,0:main
+Hin_Geo_ncert_7stnd_4ch_0120a.5:condition,,,,,,,
+,def,,,,,def,
+,,,,,,,
+affirmative
+ 
+ #इससे अंतरिक्ष यात्री रक्तस्त्रावित हो सकते हैं ।
+yaha,aMwarikRa_1+yAwrI_1,rakwaswrAviwa+ho_1-0_sakawA_hE_1
+1,2,3
+,anim,
+,[- pl a],
+3:rh,3:k1,0:main
+Hin_Geo_ncert_7stnd_4ch_0120b.8:coref,,
+,def,
+,,
+affirmative
+ 
+ #पवन का नाम उसके आने की दिशा के आधर पर निर्धरित होता है ।
+pavana,nAma_1,vaha,A_1,xiSA_1,AXara_1,nirXariwa+ho_1-wA_hE_1
+1,2,3,4,5,6,7
+mass,,,,,,
+[- pl a],[- sg a],,,[- sg a],[- sg a],
+2:r6,4:k1,4:r6,5:r6,6:r6,7:k7,0:main
+,,1:coref,,,,
+def,,,,def,,
+,,,,,,
+affirmative
+ 
+ #पश्चिमी एवं पूर्वी पवनें स्थायी पवनें हैं ।
+paScimI_1,pUrvI_1,pavana_1,sWAyI_1,pavana_1,hE_1-pres
+1,2,3,4,5,6
+,,mass,,mass,
+,,[- pl a],,[- pl a],
+3:mod,3:mod,6:k1s,5:mod,6:k1,0:main
+,,,,,
+,,def,,def,
+,,,,,
+affirmative
+ 
+ #ये वर्षभर लगातार निश्चित दिशा में चलती रहती हैं ।
+yaha,varRaBara_1,lagAwAra_1,niSciwa_1,xiSA_1,cala_1-wA_hE_1
+1,2,3,4,5,6
+,,,,,
+,[- sg a],,,[- sg a],
+2:k1,6:k7t,6:krvn,5:mod,6:k7p,0:main
+Hin_Geo_ncert_7stnd_4ch_0124.5:coref,,,,,
+,,,,def,[shade:raha_1]
+,,,,,
+affirmative
+ 
+ #ये पवनें विभिन्न ऋतुओं में अपनी दिशा बदलती रहती हैं ।
+yaha,pavana_1,viBinna_1,qwu_1,apanA,xiSA_1,baxala_1-wA_hE_1
+1,2,3,4,5,6,7
+,mass,,,,,
+,[- pl a],,[- pl a],,[- sg a],
+2:dem,7:k1,4:mod,7:k7t,6:r6,7:k2,0:main
+,,,,,,
+,def,,,,def,[shade:raha_1]
+,,,,,,
+affirmative
+ 
+ #उदाहरण के लिए भारत में मानसूनी पवनों को देखो ।
+uxAharaNa_1,BArawa,mAnasUnI_1,pavana_1,xeKa_1-o_1
+1,2,3,4,5
+,place,,mass,
+[- sg a],[- sg a],,[- pl a],
+5:rt,5:k7p,4:mod,5:k2,0:main
+,,,,
+,,,def,
+,,,,
+imperative
+ 
+ #विद्युत आपूर्ति एवं टेलीफोन लाइनें पूरी तरह से कट गईं ।
+vixyuwa_1+ApUrwi_1,telIPona_1+lAina_1,pUrA_1,waraha+se_1,kata_1-yA_1
+1,2,3,4,5
+,,,,
+[- sg a],[- sg a],,,,
+5:k1,5:k1,4:mod,5:krvn,0:main
+,,,,
+def,def,,,[shade:jA_1]
+,,,,
+affirmative
+conj:[1,2]
+ 
+ #चक्रवात के फलस्वरूप लगातार तीन दिनों तक भारी वर्षा होती रही ।
+cakravAwa_1,lagAwAra_1,wIna_1,xina_1,BArI_1,varRA_1,ho_1-yA_1
+1,2,3,4,5,6,7
+,,,,,,
+[- sg a],,,[- pl a],,[- sg a],
+7:rh,7:krvn,4:card,7:k7t,6:mod,7:k1,0:main
+result,,,,,,
+def,,,,,,[shade:raha_1]
+,,,,,,
+affirmative
+ 
+ #इस वर्षा के कारण ओडिशा की प्रमुख नदियों में बाढ़ आ गई ।
+yaha,varRA_1,odiSA,pramuKa_1,naxiyA_1,bADZa_1,A_1-yA_1
+1,2,3,4,5,6,7
+,,place,,,,
+,[- sg a],[- sg a],,[- pl a],[- sg a],
+2:dem,7:rh,5:r6,5:mod,7:k7p,7:k1,0:main
+,,,,,,
+,,,,def,,[shade:jA_1]
+,,,,,,
+affirmative
+ 
+ #चक्रवाती पवनों के कारण उठी ज्वारीय तरंगें स्थल पर 20 किलोमीटर तक आ गईं |
+cakravAwI_1,pavanA_1,uTa_1,jvArIya_1,waraMga_1, sWala_1,20,kilomItara_1,A_1-yA_1
+1,2,3,4,5,6,7,8,9
+,mass,,,mass,,,,
+,[- pl a],,,[- pl a],[- sg a],,,
+2:mod,3:rh,4:rbks,5:mod,9:k1,9:k7p,8:card,9:k2,0:main
+,,,,,,,
+,def,,,,,waka,[shade:jA_1]
+,,,,,,,
+affirmative
+ 
+ #चक्रवाती पवनों के कारण तटीय क्षेत्रों में भयानक तबाही हुई ।
+cakravAwI_1,pavanA_1,watIya_1,kRewra_1,BayAnaka_1,wabAhI_1,ho_1-yA_1
+1,2,3,4,5,6,7
+,mass,,,,,
+,[- pl a],,[- pl a],,[- sg a],
+2:mod,7:rh,4:mod,7:k7p,6:mod,7:k1,0:main
+,,,,,,
+,def,,def,,,
+,,,,,,
+affirmative
+ 
+ #तैयार खड़ी धान की फसल पूरी तरह से नष्ट हो गयी ।
+wEyAra_1,KadZA_1,XAna_1,Pasala_1,pUrA_1,waraha+se_1,naRta+ho_1-yA_1
+1,2,3,4,5,6,7
+,,,,,,
+,,[- sg a],[- sg a],,,
+3:mod,3:mod,4:r6,7:k1,6:mod,7:krvn,0:main
+,,,,,,
+,,def,,,,[shade:jA_1]
+,,,,,,
+affirmative
+ 
+ #चक्रवात धीरे धीरे उत्तर पश्चिमी दिशा में बढ़ा ।
+cakravAwa_1,XIre+XIre_1,uwwara_1+paScimI_1,xiSA_1,baDZA_1-yA_1
+1,2,3,4,5
+mass,,,,
+[- sg a],,,[- sg a],
+5:k1,5:krvn,4:mod,5:rd,0:main
+,,,,
+def,,,def,
+,,,,
+affirmative
+ 
+ #गहन होकर इसने महाचक्रवात का रूप धारण कर लिया |
+gahana+ho_1,yaha,mahAcakravAwa_1,rUpa_1,XAraNa+kara_1-yA_1
+1,2,3,4,5
+,,mass,,
+,,[- pl a],[- sg a],
+5:rpk,5:k1,4:r6,5:k2,0:main
+,Hin_Geo_ncert_7stnd_4ch_0145b.1:coref,,,
+,,,def,[shade:le_1]
+,,,,
+affirmative
+ 
+ #महाचक्रवात ने भुवनेश्वर, कटक और 28 तटीय नगरों सहित ओडिशा के पूरे तट को बर्बाद कर दिया ।
+mahAcakravAwa_1,BuvaneSvara,kataka,28,watIya_1,nagara_1,odiSA,pUrA_1,wata_1,barbAxa+kara_1-yA_1
+1,2,3,4,5,6,7,8,9,10
+mass,place,place,,,,place,,,
+[- pl a],[- sg a],[- sg a],,,[- pl a],[- sg a],,[- sg a],
+10:k1,10:rask2,10:rask,5:card,6:mod,10:rask2,9:r6,9:mod,10:k2,0:main
+,,,,,,,,,
+def,,,,,,,,def,[shade:xe_1]
+,,,,,,,,,
+affirmative
+conj;[2,3,4]
+ 
+ #अलवण जल के मुख्य स्रोत नदी, ताल, सोते एवं हिमनद हैं ।
+alavaNa_1,jala_1,muKya_1,srowa_1,naxI_1,wAla_1,sowA_1,himanaxa_1,hE_1
+1,2,3,4,5,6,7,8,9
+,mass,,,,,,,
+,[- pl a],,[- sg a],[- sg a],[- sg a],[- pl a],[- sg a],
+2:mod,4:r6,4:mod,9:k1,9:k1s,9:k1s,9:k1s,9:k1s,0:main
+,,,,,,,,
+,def,,,nondef,nondef,nondef,def,
+,,,,,,,,
+affirmative
+conj:[5,6,7,8]
+ 
+ #महासागरों एवं समुद्रों का जल, लवणीय होता है ।
+mahAsAgara_1,samuxra_1,jala_1,lavaNIya_1,ho_1-wA_hE_1
+1,2,3,4,5
+,,mass,,
+[- pl a],[- pl a],[- pl a],,
+3:r6,3:r6,5:k1,5:k1s,0:main
+,,,,
+,,def,,
+,,,,
+affirmative
+conj:[1,2]
+ 
+ #लंबी छुट्टियों के बाद रवि स्कूल जा रहा था ।
+laMbA_1,CuttI_1,bAxa_1,ravi_1,skUla_1,jA_1-0_rahA_WA_1
+1,2,3,4,5,6
+,,,per,,
+,[- pl a],[- - a],[m sg a],[- sg a],
+2:mod,3:r6,6:k7t,6:k1,6:k2p,0:main
+,,,,,
+,,,,def,
+,,,,,
+affirmative
+ 
+ #उसने यह देखा
+vaha,yaha,xeKA_1-yA_1
+1,2,3
+,,
+,[- sg a],
+3:k1,3:k2,0:main
+Hin_Geo_ncert_7stnd_1ch_0001a.4:coref,,
+,,
+,,
+affirmative
+ 
+ #उसके स्कूल के निकट के खेल के मैदान में खुदाई हो गई थी ।
+vaha,skUla_1,nikata_1,Kela_1,mExAna_1,KuxAI+ho_1-0_gayA_WA_1
+1,2,3,4,5,6
+,,,,,
+,[- sg a],[- sg a],[- sg a],[- sg a],
+2:r6,3:r6,4:r6,5:r6,6:k7p,0:main
+Hin_Geo_ncert_7stnd_1ch_0001a.4:coref,,,,,
+,def,,,
+,,,,
+affirmative
+ 
+ #लोगों ने यह बताया
+loga_1,yaha,bawA_1-yA_1
+1,2,3
+anim,,
+[m pl a],[- sg a],
+3:k1,3:k2,0:main
+,,
+,,
+,,
+affirmative 
+
+ #रवि को यह समझ में आया
+ravi,yaha,samaJa_1+A_1-yA_1
+1,2,3
+per,,
+[- sg a],[- sg a],
+3:k1,3:k2,0:main
+,,
+,,
+,,
+affirmative 
+
+ #मुलायम घास, गेंदे के फूल एवं तितलियों वाला विशाल मैदान अब हमेशा के लिए नष्ट हो चुका है ।
+mulAyama_1,GAsa_1,geMxA_1,PUla_1,wiwalI_1,viSAla_1,mExAna_1,aba,hameSA_1,naRta+ho_1-0_cukA_hE_1
+1,2,3,4,5,6,7,8,9,10
+,mass,,,anim,,,,,
+,[- pl a],[- sg a],[- pl a][mawup],[- pl a][mawup],,[- sg a],[- - a],[- sg a],
+2:mod,11:k1,4:r6,7:mod,7:mod,7:mod,10:k7t,10:rt,0:main
+,,,,,,,,,
+,def,,def,def,,def,,,
+,,,,,,,,,
+affirmative
+ 
+ #उसकी आँखों से आँसू छलकने लगे ।
+vaha,AzKa_1,AzsU_1,Calaka_1-wA_hE_1
+1,2,3,4
+,,mass,
+,[- pl a],[- pl a],
+2:r6,4:k5,4:k1,0:main
+Hin_Geo_ncert_7stnd_1ch_0001a.4:coref,,,
+,,,[shade:laga_1]
+,,,
+affirmative
+ 
+ #उसने यह बात अपने सहपाठियों को बताई ।
+vaha,yaha,bAwa_1,apanA,sahapATI_1,bawA_1-yA_1
+1,2,3,4,5,6
+,,,,anim,
+,,[- sg a],,[- pl a],
+6:k1,3:dem,6:k2g,5:r6,6:k2,0:main
+Hin_Geo_ncert_7stnd_1ch_0001a.4:coref,,,1:coref,,
+,,,,def,
+,,,,,
+affirmative 
+
+ #सुबह की सभा में प्रधनाचार्य ने भी बहुत उदासी से यह कहा,
+subaha_1,saBA_1,praXanAcArya_1,bahuwa_3,uxAsI_1,yaha,kaha_1-yA_1
+1,2,3,4,5,6,7
+,,anim,,,,
+[- sg a],[- sg a],[m sg a],,[- sg a],[- sg a],
+2:r6,7:k7p,7:k1,5:mod,7:krvn,7:k2,0:main
+,,,,,,
+,def,,,,,
+,,,,,,
+affirmative
+ 
+ #हमारा पर्यावरण बदल रहा है ।
+speaker,paryAvaraNa_1,baxala_1-0_rahA_hE_1
+1,2,3
+anim,,
+[m pl u],[- sg a],
+2:r6,3:k1,0:main
+,,
+,def,
+,,
+affirmative 
+
+ #कक्षा में पहुँचकर रवि ने अपने शिक्षक से यह पूछा ।
+kakRA_1,pahuzca_1,ravi,apanA,SikRaka_1,yaha,pUCa_1-yA_1
+1,2,3,4,5,6,7
+,,per,,anim,,
+[- sg a],,[m sg a],,[m sg a],,
+2:k7p,7:rpk,7:k1,5:r6,7:k2g,7:k2,0:main
+,,,,,,
+def,,,,def,,
+,,,,,,
+affirmative 
+
+
+ #वही एक मैदान उनके खेलने के लिए वहाँ पर था ।
+vaha,eka_1,mExAna_1,vaha,Kela_1-yA_1-yA_1,vahAz,WA_1-0_WA_1-0_WA_1
+1,2,3,4,5,6,7
+,,,,,,
+[- pl a],,[m sg a],[- pl a],,,
+5:k1,3:card,7:k1,5:k1,7:rt,7:k7p,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative 
+
+ #एक बड़े ज़ार के एक चौथाई भाग में मिट्टी भरकर उसे अच्छी तरह दबा दें ।
+eka_1,badZA_1,jZAra_1,eka_1+cOWAI_1,BAga_1,mittI_1,Bara_1,vaha,acCA_1+waraha_1,xabA_1-o_1
+1,2,3,4,5,6,7,8,9,10
+,,,,,,,,,
+,,[-sg a],,[- sg a],[- sg a],,,,,
+3:card,3:mod,5:r6,6:card,7:k7,7:k2,10:rpk,10:k2,10:krvn,0:main
+,,,,,,,Hin_Ge0_ncert_7stnd_5ch_0016.7:coref,,
+,,def,,,def,,,,[shade:xe_1]
+imperative
+ 
+ #इसके ऊपर ह्यूमस की एक पतली परत लगाएँ ।
+yaha,upar_1,hyUmasa_1,eka_1,pawalA_1,parawa_1,lagA_1-o_1
+1,2,3,4,5,6,7
+,,,,,,
+,[- sg a],[- sg a],,,[- sg a],
+2:r6,7:k7p,6:r6,6:card,6:mod,7:k2,0:main
+Hin_Ge0_ncert_7stnd_5ch_0017.3:coref,,,,,,
+,,def,,,def,
+,,,,,,
+affirmative
+ 
+ #इसमें जल की फुहारछिड़के ज़ार को बंद कर दें ।
+yaha,jala_1,PuhAraCidZake_1,jZAra,baMxa+kara_1-o_1
+1,2,3,4,5
+,mass,,,
+,[- sg a],,[- sg a],
+5:k7p,4:r6,4:mod,5:k2,0:main
+Geo_ncert_7stnd_5ch_0019.9:coref,,,,
+,,,,[shade:xe_1]
+,,,,
+affirmative
+ 
+ #पृथ्वी की सतह का तीन चौथाई भाग जल से ढँका हुआ है ।
+pqWvI_1,sawaha_1,wIna_1+cOWAI_1,BAga_1,jala_1,DazkA_1+ho_1-yA_1
+1,2,3,4,5,6
+,,,,mass,
+[- sg a],[- sg a],,[- sg a],[- pl a],
+2:r6,4:r6,4:ord,6:k1,6:k3,0:main
+,,,,,
+def,nondef,,nondef,def,
+,,,,,
+affirmative
+ 
+ #धरती पर थल की अपेक्षा जल अधिक है
+XarawI_1,Wala_1,jala_1,aXika_1,hE_1
+1,2,3,4,5
+,,mass,,
+[- sg a],[- sg a],[- pl a],,
+5:k7p,3:rv,5:k1,5:k1s,0:main
+,,,,
+def,nondef,def,,
+,,,,
+affirmative
+ 
+ #निम्नलिखित तालिका में जल वितरण का प्रतिशत दिया गया है ।
+nimnaliKiwa_1,wAlikA_1,jala_1+viwaraNa_1,prawiSawa_1,xe_1-yA_gayA_hE_1
+1,2,3,4,5
+,,,,
+,[- sg a],[- sg a],[- sg a],
+2:mod,5:k7p,4:r6,5:k2,0:main
+,,,,
+,def,def,def,
+,,,,
+affirmative 
+
+ #साधारण क्रियाकलाप द्वारा जल के वितरण को प्रदर्शित किया जा सकता है ।
+sAXAraNa_1,kriyAkalApa_1,jala_1,viwaraNa_1,praxarSiwa+kara_1-yA_jA_sakawA_hE_1
+1,2,3,4,5
+,,mass,,
+,[- sg a],[- pl a],[- sg a],
+2:mod,5:k3,4:r6,5:k2,0:main
+,,,,
+,nondef,def,,
+,,,,
+affirmative 
+
+ #इन्हें तरंगें कहते हैं ।
+yaha,waraMga_1,kaha_1-wA_hE_1
+1,2,3
+,mass,
+,[- pl a],
+3:k2g,3:k2,0:main
+Hin_Geo_ncert_7stnd_5ch_0052a.4:coref,,
+,def,
+,,
+affirmative
+ 
+ #समुद्री सतह पर पवन बहने पर तरंगें उत्पन्न होती हैं ।
+samuxrI_1,sawaha_1,pavana_1,baha_1,waraMga_1,uwpanna+ho_1-wA_hE_1
+1,2,3,4,5,6
+,,mass,,mass,
+,[m sg a],[- pl a],,[- pl a],
+2:mod,4:k7p,4:k1,6:rblsk,6:k1,0:main
+,,,,,
+,,def,,def,
+,,,,,
+affirmative 
+
+ #पवन के तेज़ बहने पर तरंगें भी उतनी ही बड़ी होती जाती हैं ।
+pavana_1,wejZa_3,baha_1,waraMga_1,uwanA_1,badZA_1+ho_1-wA_hE_1
+1,2,3,4,5,6
+mass,,,mass,,
+[- pl a],,,[- pl a],,
+3:k1,3:mod,6:rblsk,6:k1,6.1:intf,0:main
+,,,,,,
+def,,,def BI,,,[shade:jA_1]
+,,,,,,
+affirmative
+ 
+ #सुनामी जापानी भाषा का एक शब्द है |
+sunAmI_1,jApAnI_1,BARA_1,eka_1,Sabxa_1,hE_1-pres
+1,2,3,4,5,6
+ne,ne,,,,
+[- sg a],,[- sg a],,[- sg a],
+6:k1,3:mod,5:r6,5:card,6:k1s,0:main
+,,,,,
+,,,,def,
+,,,,,
+affirmative 
+
+ #ये तरंगें उस भूकंप का परिणाम थीं
+yaha,waraMga_1,vaha,BUkaMpa_1,pariNAma_1,hE_1-past
+1,2,3,4,5,6
+,mass,,,,
+,[- pl a],,[- sg a],[- sg a],
+2:dem,6:k1,4:dem,5:r6,6:k1s,0:main
+,,,,,
+,,,,def,
+,,,,,
+affirmative 
+
+ #उसका अधिकेंद्र सुमात्रा की पश्चिमी सीमा पर था ।
+vaha,aXikeMxra_1,sumAwrA,paScim_1,sImA_1,hE_1-past
+1,2,3,4,5,6
+,,ne,,,
+,[- sg a],[- sg a],,[- sg a],
+2:r6,6:k1,5:r6,5:mod,6:k7p,0:main
+Hin_Geo_ncert_7stnd_5ch_0057a.2:coref,,,,,
+,,,,def,
+,,,,,
+affirmative
+ 
+ #इस भूकंप की तीव्रता रिक्टर पैमाने पर 9.0 मापी गई थी ।
+yaha,BUkaMpa_1,wIvrawA_1,riktara_1+pEmAnA_1,9.0,mApa_1-yA_gayA_WA_1
+1,2,3,4,5,6
+,,,ne,,
+,[- sg a],[- sg a],[- sg a],,
+2:mod,3:r6,7:k2,6:k7,3:card,0:main
+,,,,,
+,,def,,,
+,,,,,
+pass-affirmative 
+
+ #भारतीय प्लेट, बर्मा प्लेट के नीचे धँस गई थी |
+BArawIya_1,pleta_1,barmA+pleta_1,nIcA_4,Xazsa_1-yA_gayA_WA_1
+1,2,3,4,5
+,ne,ne,,
+,[- sg a],[- sg a],,
+2:mod,5:k1,4:r6,5:rd,0:main
+,,,,
+,def,def,,
+,,,,
+affirmative 
+
+ #समुद्र तल में अकस्मात् गति उत्पन्न हो गई
+samuxra+wala_1,akasmAw_1,gawi_1,uwpanna+ho_1-yA_1
+1,2,3,4
+,,,
+[- sg a],,[- sg a],
+4:k7p,4:krvn,4:k1,0:main
+,,,
+,,def,[shade:jA_1]
+,,,
+affirmative
